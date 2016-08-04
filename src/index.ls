@@ -1,5 +1,5 @@
 object-depth = (object) ->
-  return 0 unless typeof object is 'object'
+  | typeof object isnt 'object' => return 0
 
   [value for own _, value of object]
    |> (.map object-depth)

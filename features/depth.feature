@@ -50,7 +50,8 @@ Feature: determining the depth of JavaScript objects
               qux: 'yes!'
             }
           }
-        }
+        },
+        fizz: {}
       }
       """
     When running: "objectDepth(fooBar)"

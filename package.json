@@ -1,6 +1,6 @@
 {
   "name": "object-depth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Kevin Goslar",
   "description": "Determines the depth of objects",
   "devDependencies": {

@@ -1,5 +1,7 @@
 # JavaScript Object Depth
 
+[![CircleCI](https://circleci.com/gh/Originate/object-depth-js.svg?style=shield)](https://circleci.com/gh/Originate/object-depth-js)
+
 Determines the depth of JavaScript objects.
 
 ```js

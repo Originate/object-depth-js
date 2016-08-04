@@ -11,6 +11,9 @@
     "o-tools": "0.4.18",
     "o-tools-livescript": "1.1.2"
   },
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/Originate/object-depth-js",
   "license": "ISC",
   "main": "dist/index.js",

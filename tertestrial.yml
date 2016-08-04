@@ -1,1 +1,5 @@
-mappings: js-cucumber-mocha
+mappings:
+
+  feature:
+    testFile: "node_modules/o-tools-livescript/bin/build && cucumber-js {{filename}}"
+    testLine: "node_modules/o-tools-livescript/bin/build && cucumber-js {{filename}}:{{line}}"

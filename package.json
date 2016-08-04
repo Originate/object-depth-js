@@ -1,0 +1,23 @@
+{
+  "name": "object-depth",
+  "version": "0.0.0",
+  "author": "Kevin Goslar",
+  "description": "Determines the depth of objects",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "cucumber": "1.2.1",
+    "cucumber-snippets-livescript": "1.0.1",
+    "o-tools": "0.4.18",
+    "o-tools-livescript": "1.1.2"
+  },
+  "homepage": "https://github.com/Originate/object-depth-js",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Originate/object-depth-js.git"
+  },
+  "scripts": {
+    "test": "bin/spec"
+  }
+}
